@@ -1,0 +1,7 @@
+spotipy
+customtkinter
+tkinter
+threading
+time
+pycaw
+comtypes
