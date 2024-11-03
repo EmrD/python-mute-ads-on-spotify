@@ -25,9 +25,10 @@ This application is NOT removing the ads. Just automatically reduces the volume 
 
    ```bash
    pip install spotipy customtkinter pycaw comtypes
-   ```bash
+
    pip install -r requirements.txt
    ```
+
 3. Run the script:
    ```bash
    python main.py
